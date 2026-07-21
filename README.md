@@ -34,7 +34,7 @@ With the launch of the V2 architecture, the event counter resets to Match #1. Th
 > To maintain dashboard readability and strict data separation, the continuous live ledger is maintained in a dedicated file. 
 > *(为保持主页可读性与严格的数据分离，连续的实时账本维护在独立文件中。)*
 > 
-> 🔗 **[Click here to view the full V2 Live Ledger (点击此处查看 V2 完整实时账本) ➡️](./V2_Ledger.csv)**
+> 🔗 **[Click here to view the full V2 Discretionary Ledger (点击此处查看 V2 完整主观账本) ➡️](./V2_Discretionary_Ledger.csv)**
 
 ---
 ### 📖 V2 Data Dictionary (Key Variables) / 数据字典（核心变量声明）
