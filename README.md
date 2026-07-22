@@ -69,8 +69,8 @@ To ensure clear backtesting parameters and eliminate ambiguity in data auditing,
 > - **League Events (Ordinal Data):** Follow a strictly normalized `[FIFA 3-Letter Country Code] + [Tier Level]` convention (e.g., ENG1, ESP2), ensuring zero cross-continental hash collisions.
 > - **联赛事件（序数型数据）：** 严格遵循 `[FIFA 三位国家代码] + [级别]` 的归一化命名规范（如 `ENG1`, `ESP2`），确保零跨洲哈希碰撞。
 > 
-> - **Cup Events (Categorical Data):** Utilize distinct 3-letter keys (e.g., FAC, SLC) to reflect their independent, non-tiered nature, aligning with industry-standard API endpoints.
-> - **杯赛事件（类别型数据）：** 采用独特的 3 字母独立主键（如 `FAC`, `SLC`），反映其独立且无等级划分的特性，并与行业标准 API 端点保持一致。
+> - **Cup Events (Categorical Data):** Utilize distinct 3-letter keys (e.g., UEL, UCL) to reflect their independent, non-tiered nature, aligning with industry-standard API endpoints.
+> - **杯赛事件（类别型数据）：** 采用独特的 3 字母独立主键（如 `UEL`, `UCL`），反映其独立且无等级划分的特性，并与行业标准 API 端点保持一致。
 > 
 > - **Team Entities (Entity Resolution):** Team primary keys strictly follow a collision-avoidance strategy, enforcing official historical abbreviations or unique prefixes (e.g., VVV, MVV) to prevent cross-league clashes.
 > - **球队实体（实体消歧）：** 球队主键严格遵循防碰撞策略，强制使用官方历史缩写或特殊前缀（如 `VVV`, `MVV`）以防止跨联赛冲突。
