@@ -60,6 +60,28 @@ To ensure clear backtesting parameters and eliminate ambiguity in data auditing,
   Standardized institutional abbreviations (e.g., `PIN` = Pinnacle, `BF` = Betfair). 
   *(标准化的机构简称，例如：`PIN` = 平博，`BF` = 必发交易所。)*
 
+# Quantitative Football Database - Reference Data / 足球量化数据库 - 参考数据
+
+> **Architecture Note for Auditors / 审计人员架构说明:**
+> This dataset utilizes a rigorous hybrid primary key and entity resolution architecture. 
+> 本数据集针对赛事 ID 与球队实体采用了一种严谨的混合主键与实体消歧架构。
+> 
+> - **League Events (Ordinal Data):** Follow a strictly normalized `[FIFA 3-Letter Country Code] + [Tier Level]` convention (e.g., ENG1, ESP2), ensuring zero cross-continental hash collisions.
+> - **联赛事件（序数型数据）：** 严格遵循 `[FIFA 三位国家代码] + [级别]` 的归一化命名规范（如 `ENG1`, `ESP2`），确保零跨洲哈希碰撞。
+> 
+> - **Cup Events (Categorical Data):** Utilize distinct 3-letter keys (e.g., FAC, SLC) to reflect their independent, non-tiered nature, aligning with industry-standard API endpoints.
+> - **杯赛事件（类别型数据）：** 采用独特的 3 字母独立主键（如 `FAC`, `SLC`），反映其独立且无等级划分的特性，并与行业标准 API 端点保持一致。
+> 
+> - **Team Entities (Entity Resolution):** Team primary keys strictly follow a collision-avoidance strategy, enforcing official historical abbreviations or unique prefixes (e.g., VVV, MVV) to prevent cross-league clashes.
+> - **球队实体（实体消歧）：** 球队主键严格遵循防碰撞策略，强制使用官方历史缩写或特殊前缀（如 `VVV`, `MVV`）以防止跨联赛冲突。
+
+## Reference Tables / 参考数据表
+The primary keys and mapping logic used in the core fact tables are documented in the dimension files:
+核心事实表中使用的主要键值和映射逻辑记录在以下维度文件中：
+
+- 📄 View the competition mapping / 查看赛事映射表: [`Ref_Competitions.csv`](./Ref_Competitions.csv)
+- 📄 View the team mapping / 查看球队映射表: [`Ref_Teams.csv`](./Ref_Teams.csv)
+
 ## ⚠️ Disclaimer / 免责声明
 **Not Financial Advice (NFA).** The data, strategies, and historical records provided in this repository are strictly for educational, research, and technical demonstration purposes. They do not constitute financial, investment, or betting advice. Sports markets are highly volatile, and past performance is not indicative of future results. The repository owner assumes absolutely no liability for any financial losses incurred by utilizing the information, signals, or code within this project. Trade and wager strictly at your own risk.
 *(非财务建议。本仓库提供的所有数据、策略及历史记录仅用于教育、学术研究及技术展示目的，绝不构成任何财务、投资或博彩建议。体育市场具有高度波动性，过往业绩不代表未来表现。仓库所有者对任何人因使用本项目中的信息、信号或代码而导致的任何财务损失概不负责。任何跟单或交易行为的风险均由您自行承担。)*
