@@ -1,1 +1,58 @@
-
+comp_id,comp_name_cn,comp_name_en,comp_type,architecture_logic
+FAC,足总杯,The FA Cup,Domestic Cup,Independent_3Letter_Key
+EFL,英联杯,EFL Cup,League Cup,Independent_3Letter_Key
+FCS,社区盾,FA Community Shield,Super Cup,Independent_3Letter_Key
+SCC,苏总杯,Scottish Cup,Domestic Cup,Independent_3Letter_Key
+SLC,苏联杯,Scottish League Cup,League Cup,Independent_3Letter_Key
+CIT,意杯,Coppa Italia,Domestic Cup,Independent_3Letter_Key
+SIT,意超杯,Supercoppa Italiana,Super Cup,Independent_3Letter_Key
+CDR,国王杯,Copa del Rey,Domestic Cup,Independent_3Letter_Key
+SCE,西超杯,Supercopa de España,Super Cup,Independent_3Letter_Key
+DFB,德国杯,DFB-Pokal,Domestic Cup,Independent_3Letter_Key
+DFL,德超杯,DFL-Supercup,Super Cup,Independent_3Letter_Key
+CDF,法国杯,Coupe de France,Domestic Cup,Independent_3Letter_Key
+TDC,法超杯,Trophée des Champions,Super Cup,Independent_3Letter_Key
+TDP,葡萄牙杯,Taça de Portugal,Domestic Cup,Independent_3Letter_Key
+TDL,葡联杯,Taça da Liga,League Cup,Independent_3Letter_Key
+STP,葡超杯,Supertaça Cândido de Oliveira,Super Cup,Independent_3Letter_Key
+KNV,荷兰杯,KNVB Beker,Domestic Cup,Independent_3Letter_Key
+JCS,告鲁夫盾,Johan Cruyff Shield,Super Cup,Independent_3Letter_Key
+BEC,比利时杯,Belgian Cup,Domestic Cup,Independent_3Letter_Key
+BSC,比超杯,Belgian Super Cup,Super Cup,Independent_3Letter_Key
+SVC,瑞典杯,Svenska Cupen,Domestic Cup,Independent_3Letter_Key
+FIC,芬兰杯,Finnish Cup,Domestic Cup,Independent_3Letter_Key
+FLL,芬联杯,Finnish League Cup,League Cup,Independent_3Letter_Key
+NOC,挪威杯,Norwegian Cup,Domestic Cup,Independent_3Letter_Key
+DAC,丹麦杯,Danish Cup,Domestic Cup,Independent_3Letter_Key
+OFB,奥地利杯,ÖFB-Cup,Domestic Cup,Independent_3Letter_Key
+SWC,瑞士杯,Swiss Cup,Domestic Cup,Independent_3Letter_Key
+POC,波兰杯,Polish Cup,Domestic Cup,Independent_3Letter_Key
+PSC,波超杯,Polish SuperCup,Super Cup,Independent_3Letter_Key
+CZC,捷克杯,Czech Cup,Domestic Cup,Independent_3Letter_Key
+GRC,希腊杯,Greek Football Cup,Domestic Cup,Independent_3Letter_Key
+ROC,罗马尼亚杯,Cupa României,Domestic Cup,Independent_3Letter_Key
+RSC,罗超杯,Supercupa României,Super Cup,Independent_3Letter_Key
+ISC,冰岛杯,Icelandic Cup,Domestic Cup,Independent_3Letter_Key
+ILL,冰联杯,Icelandic League Cup,League Cup,Independent_3Letter_Key
+ISS,冰超杯,Icelandic Super Cup,Super Cup,Independent_3Letter_Key
+TUC,土耳其杯,Turkish Cup,Domestic Cup,Independent_3Letter_Key
+TSC,土超杯,Turkish Super Cup,Super Cup,Independent_3Letter_Key
+UCL,欧冠,UEFA Champions League,Continental Cup,Independent_3Letter_Key
+UEL,欧联,UEFA Europa League,Continental Cup,Independent_3Letter_Key
+UEC,欧协联,UEFA Europa Conference League,Continental Cup,Independent_3Letter_Key
+UES,欧洲超级杯,UEFA Super Cup,Super Cup,Independent_3Letter_Key
+EMC,天皇杯,Emperor's Cup,Domestic Cup,Independent_3Letter_Key
+JLC,日联杯,J.League Cup,League Cup,Independent_3Letter_Key
+JSC,日本超级杯,Japanese Super Cup,Super Cup,Independent_3Letter_Key
+KFA,韩国足总杯,Korean FA Cup,Domestic Cup,Independent_3Letter_Key
+KCC,沙特国王杯,King Cup,Domestic Cup,Independent_3Letter_Key
+SSC,沙特超级杯,Saudi Super Cup,Super Cup,Independent_3Letter_Key
+USC,美公开杯,U.S. Open Cup,Domestic Cup,Independent_3Letter_Key
+CDB,巴西杯,Copa do Brasil,Domestic Cup,Independent_3Letter_Key
+SDB,巴西超级杯,Supercopa do Brasil,Super Cup,Independent_3Letter_Key
+COA,阿根廷杯,Copa Argentina,Domestic Cup,Independent_3Letter_Key
+ACE,亚冠精英,AFC Champions League Elite,Continental Cup,Independent_3Letter_Key
+LIB,解放者杯,Copa Libertadores,Continental Cup,Independent_3Letter_Key
+SUD,南美杯,Copa Sudamericana,Continental Cup,Independent_3Letter_Key
+REC,南美超级杯,Recopa Sudamericana,Super Cup,Independent_3Letter_Key
+CCC,美冠杯,CONCACAF Champions Cup,Continental Cup,Independent_3Letter_Key
