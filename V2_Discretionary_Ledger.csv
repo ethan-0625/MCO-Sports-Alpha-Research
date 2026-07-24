@@ -1,16 +1,25 @@
 Commit_Hash,Date,Placed_Timestamp,Minutes_to_Kickoff,Competition,Home,Away,Signal,Bookmaker,Odds,Conviction,Model_Prob,Fair_Odds,Allocation,Kelly_Pct,Closing_Odds,CLV_Pct,Home_Score,Away_Score,Settlement,Net_PnL
 982dd52b467eeca4cd78fa8048f9b8895347d4ed,2026-07-24 23:30,2026-07-24 23:00,30,ROU1,UTA,OTE,1,PIN,2.02,3,0.99,1.01,12,0.245,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-24 23:55,2026-07-24 23:50,5,POL1,RAD,WIE,1,PIN,2.39,3,0.99,1.01,12,0.2457,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 00:00,2026-07-24 23:50,10,FIN1,JAR,SJK,1,PIN,2.94,3,0.7,1.43,6,0.1363,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 00:00,2026-07-24 23:50,10,DEN2,VEJ,ABC,2,PIN,3.61,3,0.8,1.25,9,0.1808,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 01:00,2026-07-24 23:50,70,DEN1,VFF,ODB,1,PIN,1.82,2,0.55,1.82,1,0.0003,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 01:00,2026-07-24 23:50,70,SWE1,VST,ORG,O3,PIN,1.87,3,0.7,1.43,4,0.0888,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 01:00,2026-07-24 23:50,70,DEN2,AAB,HIL,2,PIN,3.47,3,0.6,1.67,5,0.1095,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 01:30,2026-07-24 23:50,100,SUI1,XAM,KRI,X,PIN,4.34,2,0.5,2,4,0.0876,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 01:30,2026-07-24 23:50,100,SUI1,RPJ,FCW,2,PIN,2.31,2,0.55,1.82,2.5,0.0516,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 01:30,2026-07-24 23:50,100,SUI1,RPJ,FCW,2,PIN,2.31,2,0.55,1.82,2.5,0.0516,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 02:15,2026-07-24 23:50,145,SUI1,ETC,AAU,X,PIN,4.14,3,0.65,1.54,7,0.1346,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 02:15,2026-07-24 23:50,145,SUI1,WIN,YSI,1,PIN,2.25,3,0.65,1.54,4,0.0925,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 02:30,2026-07-24 23:50,160,ROU1,AGS,PLO,1,PIN,2.11,2,0.5,2,1,0.0124,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 02:30,2026-07-24 23:50,160,POL1,POG,LEW,1,PIN,2.81,2,0.55,1.82,3,0.0753,Pending,-,Pending,Pending,⏳ Pending,-
-Awaiting Kickoff,2026-07-25 02:45,2026-07-24 23:50,175,IRL2,KER,FHA,O2.5,PIN,1.87,3,0.9,1.11,10,0.1963,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-24 23:55,2026-07-24 23:50,5,POL1,RAD,WIE,1,PIN,2.39,3,0.99,1.01,12,0.2457,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 00:00,2026-07-24 23:50,10,FIN1,JAR,SJK,1,PIN,2.94,3,0.7,1.43,6,0.1363,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 00:00,2026-07-24 23:50,10,DEN2,VEJ,ABC,2,PIN,3.61,3,0.8,1.25,9,0.1808,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 01:00,2026-07-24 23:50,70,DEN1,VFF,ODB,1,PIN,1.82,2,0.55,1.82,1,0.0003,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 01:00,2026-07-24 23:50,70,SWE1,VST,ORG,O3,PIN,1.87,3,0.7,1.43,4,0.0888,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 01:00,2026-07-24 23:50,70,DEN2,AAB,HIL,2,PIN,3.47,3,0.6,1.67,5,0.1095,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 01:30,2026-07-24 23:50,100,SUI1,XAM,KRI,X,PIN,4.34,2,0.5,2,4,0.0876,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 01:30,2026-07-24 23:50,100,SUI1,RPJ,FCW,2,PIN,2.31,2,0.55,1.82,2.5,0.0516,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 01:30,2026-07-24 23:50,100,SUI1,RPJ,FCW,2,PIN,2.31,2,0.55,1.82,2.5,0.0516,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 02:15,2026-07-24 23:50,145,SUI1,ETC,AAU,X,PIN,4.14,3,0.65,1.54,7,0.1346,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 02:15,2026-07-24 23:50,145,SUI1,WIN,YSI,1,PIN,2.25,3,0.65,1.54,4,0.0925,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 02:30,2026-07-24 23:50,160,ROU1,AGS,PLO,1,PIN,2.11,2,0.5,2,1,0.0124,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 02:30,2026-07-24 23:50,160,POL1,POG,LEW,1,PIN,2.81,2,0.55,1.82,3,0.0753,Pending,-,Pending,Pending,⏳ Pending,-
+b2da25b7552dece43da04fd1cd000313a02cf8f9,2026-07-25 02:45,2026-07-24 23:50,175,IRL2,KER,FHA,O2.5,PIN,1.87,3,0.9,1.11,10,0.1963,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 02:45,2026-07-25 00:58,107,IRL2,TRU,AHT,2,PIN,2.63,3,0.8,1.25,8,0.1693,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 03:00,2026-07-25 00:58,122,IRL1,SJP,DDK,O3,PIN,2.05,3,0.8,1.25,7,0.1524,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 03:45,2026-07-25 00:58,167,ARG1,GME,CCO,O2,PIN,2.03,3,0.7,1.43,5,0.1022,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 04:00,2026-07-25 00:58,182,ISL1,VIR,KEF,+1.75,PIN,1.96,3,0.7,1.43,5,0.0969,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 06:00,2026-07-25 00:58,302,ARG1,VEL,INS,2,PIN,4.14,1,0.5,2,4,0.0852,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 06:00,2026-07-25 00:58,302,ARG1,RAC,GLP,1,PIN,1.94,3,0.9,1.11,10,0.1984,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 08:15,2026-07-25 00:58,437,ARG1,PLA,USF,2,PIN,3.5,1,0.5,2,4,0.075,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 08:15,2026-07-25 00:58,437,ARG1,HUR,BNF,2,PIN,4.98,1,0.5,2,4,0.0936,Pending,-,Pending,Pending,⏳ Pending,-
+Awaiting Kickoff,2026-07-25 08:30,2026-07-25 00:58,452,CHL1,CCL,LIM,-1.25,PIN,2.12,,0.9,1.11,10,0.2027,Pending,-,Pending,Pending,⏳ Pending,-
