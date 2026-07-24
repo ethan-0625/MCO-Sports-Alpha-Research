@@ -1,2 +1,1 @@
 Commit_Hash,Date,Placed_Timestamp,Minutes_to_Kickoff,Competition,Home,Away,Signal,Bookmaker,Odds,Conviction,Model_Prob,Fair_Odds,Allocation,Kelly_Pct,Closing_Odds,CLV_Pct,Home_Score,Away_Score,Settlement,Net_PnL
-be4c27b16ee72e96b4a46a4b5d6ce9c7c4b40400,2026-07-25 00:00,2026-07-24 18:22,338,FIN2,TEST,TEST,O3,PIN,2.03,3,0.9,1.11,20,0.2007,1.86,0.0914,3,2,✅ 全赢,20.6
