@@ -368,7 +368,7 @@ HAS,哈塞尔特,Hasselt,BEL2,
 LOK,洛克伦,Sporting Lokeren,BEL2,
 BRV,比尔肖特VA,Beerschot VA,BEL2,
 LIR,利尔斯,K. Lierse S.K.,BEL2,
-RFC,列日,RFC Liege,BEL2,
+RFL,RFC列日,RFC Liege,BEL2,
 SER,瑟兰,Seraing,BEL2,
 GEU,根特B队,Gent U23,BEL2,
 CLU,布鲁日B队,Club Brugge KV U23,BEL2,
@@ -880,7 +880,7 @@ KAU,考诺萨基列斯,Kauno Zalgiris,LTU1
 KLA,克拉克斯维克,Klaksvik,FRO1
 HBS,贝尔谢巴夏普尔,H. Beer Sheva,ISR1
 LVS,索非亚列夫斯基,Levski Sofia,BUL1
-CRV,贝尔格莱德红星,Crvena zvezda,SRB1
+CZV,贝尔格莱德红星,Crvena zvezda,SRB1
 LAR,拉恩,Larne,NIR1
 SLO,布拉迪斯拉发,Slovan Bratislava,SVK1
 IBE,伊比利亚1999,Iberia 1999,GEO1
@@ -901,3 +901,7 @@ MCT,图尔克,Municipal City,URY1
 SFE,圣塔菲,Santa Fe,COL1
 LDU,基多体育大学,LDU Quito,ECU1
 IDV,山谷独立,Independiente del Valle,ECU1
+BBL,巴尼亚卢卡战士,Borac Banja Luka,BIH1
+ESC,伊斯卡尔德斯,Inter Club Escaldes,AND1
+KZA,考诺萨基列斯,Kauno Zalgiris,LTU1
+RFC,里加FC,Riga FC,LVA1
